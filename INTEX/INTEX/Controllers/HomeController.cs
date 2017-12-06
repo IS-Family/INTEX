@@ -26,5 +26,10 @@ namespace INTEX.Controllers
 
             return View();
         }
+
+        public ActionResult Register()
+        {
+            return View()
+        }
     }
 }
