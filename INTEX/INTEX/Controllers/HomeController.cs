@@ -29,7 +29,7 @@ namespace INTEX.Controllers
 
         public ActionResult Register()
         {
-            return View()
+            return View();
         }
     }
 }
